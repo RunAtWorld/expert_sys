@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBconifg>
+<DataBase>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/expert_sys</url>
+		<user>root</user>
+		<password>lipengfei2015</password>
+</DataBase>
+
+</DBconifg>

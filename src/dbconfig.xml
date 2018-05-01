@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBconifg>
+<DataBase>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://www.wuhen6.com/expert_sys</url>
+		<user>expert_sys</user>
+		<password>expert</password>
+</DataBase>
+
+</DBconifg>
