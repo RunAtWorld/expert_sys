@@ -21,7 +21,6 @@
                 <link rel="stylesheet" href="style.css"/>
                 <link rel='stylesheet' id='bootstrap-css-css'  href='css/bootstrap5152.css?ver=1.0' type='text/css' media='all' />
                 <link rel='stylesheet' id='responsive-css-css'  href='css/responsive5152.css?ver=1.0' type='text/css' media='all' />
-                <link rel='stylesheet' id='pretty-photo-css-css'  href='js/prettyphoto/prettyPhotoaeb9.css?ver=3.1.4' type='text/css' media='all' />
                 <link rel='stylesheet' id='main-css-css'  href='css/main5152.css?ver=1.0' type='text/css' media='all' />
                 <link rel='stylesheet' id='custom-css-css'  href='css/custom5152.html?ver=1.0' type='text/css' media='all' />
 
@@ -82,7 +81,7 @@
                                 <p class="search-tag-subhead">医药专家系统将根据您的输入，为您提供最合适的医药治疗方案</p>
 
                                 <form id="search-form" class="search-form clearfix" method="post" action="./getDiagnoseList" autocomplete="off">
-                                        <input class="search-term required" type="text" id="s" name="description" placeholder="输入药品或症状，如感冒" title="* 请输入药品或症状的关键词" />
+                                        <input class="search-term required" type="text" id="s" name="description" placeholder="输入药品或症状，如发热" title="* 请输入药品或症状的关键词" />
                                         <input class="search-btn" type="submit" value="Search" />
                                         <div id="search-error-container"></div>
                                 </form>
@@ -269,8 +268,6 @@
                 <!-- script -->
                 <script type='text/javascript' src='js/jquery-1.8.3.min.js'></script>
                 <script type='text/javascript' src='js/jquery.easing.1.3.js'></script>
-                <script type='text/javascript' src='js/prettyphoto/jquery.prettyPhoto.js'></script>
-                <script type='text/javascript' src='js/jflickrfeed.js'></script>
 				<script type='text/javascript' src='js/jquery.liveSearch.js'></script>
                 <script type='text/javascript' src='js/jquery.form.js'></script>
                 <script type='text/javascript' src='js/jquery.validate.min.js'></script>
