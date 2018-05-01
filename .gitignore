@@ -1,6 +1,6 @@
-.git
-.settings
-.svn
-HtmlSource
+.git/
+.settings/
+.svn/
+HtmlSource/
 .project
-build
+build/
